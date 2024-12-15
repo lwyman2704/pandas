@@ -1,9 +1,9 @@
 //********************************************************
 // pandas.c
 // Author: Lorenzo Wyman
-// UCFID: 5464079
+// 
 // Date: 10/11/24
-// Class: COP 3223, Professor Parra
+// 
 // Purpose: This program prints a specific message to the
 // terminal if the file does/does not exist, the name of 
 // the file and its contents aswell as a sample from the file
